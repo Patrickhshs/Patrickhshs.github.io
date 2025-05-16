@@ -9,5 +9,5 @@ js12556[at]nyu.edu
 - **B.S., with Honors in Computer Science**, New York University Shanghai, 2021–2025 
 
 #### Research Interests
-Reinforcement Learning, LLMs,and Mean Field Gamme
+Reinforcement Learning, LLMs,and game theory.
 
