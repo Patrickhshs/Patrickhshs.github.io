@@ -1,16 +1,13 @@
+I am an incoming Ph.D. student at the [New York University Center for Data Science](https://cds.nyu.edu/), advised primarily by [Professor Mathieu Lauriere](https://mlauriere.github.io/). I am also co-advised by [Matthieu Geist](https://scholar.google.com/citations?user=ectPLEUAAAAJ&hl=en) and [Olivier Pietquin](https://scholar.google.com/citations?user=8K8-LdwAAAAJ&hl=en) at the [Earth Species Project](https://www.earthspecies.org/). I completed my undergraduate studies in Computer Science at NYU Shanghai.
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
 #### Email
-sli[at]cumt.edu.cn
+js12556[at]nyu.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+- **Ph.D., Data Science**, New York University, Center for Data Science (Shanghai Track), 2025—2030 (expected).  
+- **B.S., with Honors in Computer Science**, New York University Shanghai, 2021–2025 
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Reinforcement Learning, LLMs,and Mean Field Gamme
 
